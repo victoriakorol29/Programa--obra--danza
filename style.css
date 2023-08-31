@@ -25,8 +25,7 @@ header {
     font-size: 3rem;
     text-align: center;
 }
-
-p {
+.header--phrase{
     background-color: rgba(0, 0, 0, 0.568);
     text-align: center;
     padding: 20px;
